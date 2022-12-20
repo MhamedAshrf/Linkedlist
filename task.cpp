@@ -52,5 +52,6 @@ int main(){
     x.addnode(10);
 
     x.displaylist();
+    x.addnode(10);
 
 }
