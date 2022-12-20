@@ -53,5 +53,6 @@ int main(){
 
     x.displaylist();
     x.addnode(10);
+    cout<< "this is the end of the code\n";
 
 }
